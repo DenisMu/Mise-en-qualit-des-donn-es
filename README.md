@@ -7,11 +7,11 @@ Ce repository contient le code de mise en qualité des données énergétiques
   - brique ...
   
  # Descritpion briques 1
-    - Données d'entrée
+    - Données en entrée
     - Données en sortie
     - Fonctionnalités 
     
   # Descritpion briques ...
-    - Données d'entrée
+    - Données en entrée
     - Données en sortie
     - Fonctionnalités 
